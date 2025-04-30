@@ -1,6 +1,6 @@
 <h1>👋 Hello, I'm Daniel Martínez</h1>
 
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/e8/46/88e846de93eb7d31eae1b5eb26e3c25b.gif">
+<img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/88/e8/46/88e846de93eb7d31eae1b5eb26e3c25b.gif">
 
 <div class="AboutMe">
   <h2>About me</h2>
