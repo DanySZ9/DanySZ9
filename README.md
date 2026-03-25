@@ -1,26 +1,47 @@
-<h1>Welcome to My Profile</h1>
+<h1 align="center">Hi there 👋, I'm Daniel</h1>
+<h3 align="center">Web Development Student | Frontend & Backend Enthusiast</h3>
 
-<div class="AboutMe">
-  <h2>About me</h2>
-  <p>
-    - I’m a university student specializing in <strong>web development</strong>, with a strong interest in both <strong>Frontend and Backend</strong> technologies.<br>
-    - I'm passionate about building clean, responsive, and user-centered web applications. <br>
-    - I enjoy working with modern frameworks and exploring APIs.<br>
-    - I’m always eager to improve my skills, learn new programming languages, and collaborate on meaningful projects. Currently, I'm exploring technologies like <strong>JavaScript, Angular, Node.js, MySQL</strong>, and <strong>Java</strong>.<br><br>
-  </p>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 I'm a university student specializing in **Web Development**  
+- 💡 Passionate about building **clean, responsive, and user-focused applications**  
+- 🔍 Interested in both **Frontend and Backend technologies**  
+- 🚀 I enjoy working with **modern frameworks, APIs, and scalable solutions**  
+- 📚 Constantly learning and improving my skills in new technologies  
+- 🤝 Open to collaboration on **meaningful and innovative projects**  
+
+### 🌱 Currently Exploring
+- JavaScript Ecosystem  
+- Angular & React  
+- Node.js  
+- MySQL  
+- Java  
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,mysql,nextjs,nodejs,postman,py,react,ts,vscode" />
 </div>
 
+---
 
+## 📈 Goals
 
-<h2>Skills</h2>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,mysql,nextjs,nodejs,postman,py,react,ts,vscode" />
-  </a>
-</p>
+- Strengthen my expertise in **Frontend Development & UX/UI**
+- Build impactful real-world projects  
+- Contribute to **open source**  
+- Continue growing as a **full-stack developer**  
+
+---
+
+## 📫 Let's Connect
+
+- 💬 Feel free to reach out for collaboration or just to chat about tech!
+
+---
+
+⭐ *“Code is not just about functionality, it's about creating experiences.”*
