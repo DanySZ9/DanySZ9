@@ -29,15 +29,6 @@
 
 ---
 
-## 📈 Goals
-
-- Master **Frontend Development & Advanced UI/UX**
-- Build highly interactive and accessible web applications  
-- Create seamless experiences across different devices  
-- Continue growing as a **specialized frontend developer**  
-
----
-
 ## 📫 Let's Connect
 
 - 💬 Feel free to reach out for collaboration or to talk about frontend, design, or tech in general  
