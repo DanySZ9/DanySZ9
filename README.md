@@ -1,23 +1,23 @@
-<h1 align="center">Hi there 👋, I'm Daniel</h1>
-<h3 align="center">Web Development Student | Frontend & Backend Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm Daniel Martinez</h1>
+<h3 align="center">Frontend Developer in Progress | Also known as DaNYsZ99</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a university student specializing in **Web Development**  
-- 💡 Passionate about building **clean, responsive, and user-focused applications**  
-- 🔍 Interested in both **Frontend and Backend technologies**  
-- 🚀 I enjoy working with **modern frameworks, APIs, and scalable solutions**  
-- 📚 Constantly learning and improving my skills in new technologies  
-- 🤝 Open to collaboration on **meaningful and innovative projects**  
+- 🎓 I'm a university student specializing in **Web Development**, with a strong focus on **Frontend technologies**  
+- 🎨 Passionate about building **intuitive, responsive, and visually engaging user interfaces**  
+- ⚡ I enjoy transforming ideas into interactive digital experiences  
+- 🧠 Constantly learning and improving my skills in **modern frontend frameworks and tools**  
+- 🛠️ Experienced working with various technologies across the stack, while focusing on **user experience and interface design**  
+- 🤝 Open to collaboration on creative and impactful projects  
 
 ### 🌱 Currently Exploring
 - JavaScript Ecosystem  
 - Angular & React  
-- Node.js  
-- MySQL  
-- Java  
+- UI/UX Design Principles  
+- Animations for Web Interfaces  
+- Performance Optimization in Frontend  
 
 ---
 
@@ -31,17 +31,17 @@
 
 ## 📈 Goals
 
-- Strengthen my expertise in **Frontend Development & UX/UI**
-- Build impactful real-world projects  
-- Contribute to **open source**  
-- Continue growing as a **full-stack developer**  
+- Master **Frontend Development & Advanced UI/UX**
+- Build highly interactive and accessible web applications  
+- Create seamless experiences across different devices  
+- Continue growing as a **specialized frontend developer**  
 
 ---
 
 ## 📫 Let's Connect
 
-- 💬 Feel free to reach out for collaboration or just to chat about tech!
+- 💬 Feel free to reach out for collaboration or to talk about frontend, design, or tech in general  
 
 ---
 
-⭐ *“Code is not just about functionality, it's about creating experiences.”*
+⭐ *“Great frontend is not just how it looks, but how it feels.”*
