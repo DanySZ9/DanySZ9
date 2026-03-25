@@ -3,15 +3,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 I'm a university student specializing in **Web Development**, with a strong focus on **Frontend technologies**  
-- 🎨 Passionate about building **intuitive, responsive, and visually engaging user interfaces**  
-- ⚡ I enjoy transforming ideas into interactive digital experiences  
-- 🧠 Constantly learning and improving my skills in **modern frontend frameworks and tools**  
-- 🛠️ Experienced working with various technologies across the stack, while focusing on **user experience and interface design**  
-- 🤝 Open to collaboration on creative and impactful projects  
-
 ### 🌱 Currently Exploring
 - JavaScript Ecosystem  
 - Angular & React  
